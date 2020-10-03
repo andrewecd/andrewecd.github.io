@@ -1,0 +1,44 @@
+
+header{
+    background-color: #588C94;
+    color: white;
+    text-align: center;
+    padding: 25px;
+    font-size: 25px;
+    font-family: 'Secular One', sans-serif;
+}
+
+.about{
+    background-color: white;
+    font-family: 'Secular One', sans-serif;
+    color: #0099cc;
+
+}
+p{
+    color:white
+
+}
+main{
+    margin: 0px;
+}
+.column{
+    padding: 0px 10;
+    margin: auto;
+
+}
+
+.columns{
+    font-family: 'Secular One', sans-serif;
+    background-color: #9966ff;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    text-align: center;
+    
+}
+ul{
+    text-align: center;
+}
+ul li{
+    text-align: left;
+}
